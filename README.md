@@ -1,9 +1,12 @@
 # ReadmooToReadwise
 這是個可以將讀墨的劃線與注記匯入到Readwise的一個小工具。
+This is small tools that able to import book highlights from  Readmoo to Readwise.
 
 目前只能在Windows上使用。
+Currently supported only Windows.
 
 使用手冊
+Manual
 
 1. 從讀墨匯出您想要匯入的書的劃線，請務必選擇CSV檔。
 2. 如果在您的電腦裡的文件後綴不是.csv，請務必爲它加一個後綴：.csv
@@ -13,7 +16,16 @@
 6. 選擇提交。
 7. 您可以開始在Readwise上檢視您的劃線與注記了。
 
+1. Export your highlights from Readmoo in CSV file.
+2. If your exported file do not have .csv as the extension, please add to it.
+3. Register an account on Readwise, they have a 30 days of free trial
+4. Get your access token via https://readwise.io/access_token
+5. Open this tool, pasted the access token and choose your exported CSV file
+6. Submit
+7. You can now enjoy your hilights on Readwise!
+
 影片版使用手冊
+Video Manual
 https://youtu.be/zpL649JyDzo
 
 
